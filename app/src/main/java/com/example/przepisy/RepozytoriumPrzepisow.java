@@ -43,4 +43,9 @@ public class RepozytoriumPrzepisow {
                 )
         );
     }
+
+    public  ArrayList<Przepis> wypiszPrzepisy(String kategoria){
+        wygenerujPrzepisy();
+        ArrayList<Przepis> wybranePrzepisy
+    }
 }
